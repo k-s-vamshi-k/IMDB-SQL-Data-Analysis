@@ -7,7 +7,7 @@
 * cursor_object.execute(query)
 * fetch the data- fetchall()
 
-  ### Writing Queries in SQL.
+### Writing Queries in SQL.
 To understand and analyze the data multiple quaries have been written:
 * check how many movies are present in the data
 * find the data of these three directors : James Cameron, Luc Besson, John Woo
